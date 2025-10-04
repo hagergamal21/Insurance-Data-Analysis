@@ -132,7 +132,7 @@ This dashboard solves these challenges by providing **real-time, interactive ins
 
 ![Dashboard2](images/Dashboard2.png)
 
-### Dashboard
+### Dashboard: Insurance
 
 ![Dashboard3](images/Dashboard3.png)
 
